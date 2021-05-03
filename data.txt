@@ -1,0 +1,3 @@
+Name: Marcelino
+Age: 96
+Favourite color: greeen
